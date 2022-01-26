@@ -1,5 +1,7 @@
 
 ### Olá! Eu sou o Vagner José 👋  
+
+Eu sou Desenvolvedor Front-End, apaixonado por tecnologia e pelas maravilhas que ela proporciona. Tenho experiência utilizando Javascript (ES6), HTML5, CSS3 e o ecossistema do framework Vue.js. Além disso, desenvolvi trabalhos acadêmicos nas linguagens C, Java, Python e Pascal. Tenho conhecimento em bancos de dados SQL, utilizo Git/Github para versionamento de código. Desenvolvo protótipos de alta fidelidade a partir de Style Guide e implemento o consumo de API's.
 ##
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](http://github.com/vagnerecomp)
@@ -27,12 +29,7 @@
     <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <br>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <br>
-  
-  ##
-Desenvolvedor Front-End, apaixonado por tecnologia e pelas maravilhas que ela proporciona. Tenho experiência utilizando Javascript (ES6), HTML5, CSS3 e o ecossistema do framework Vue.js. Além disso, desenvolvi trabalhos acadêmicos nas linguagens C, Java, Python e Pascal. Tenho conhecimento em bancos de dados SQL, utilizo Git/Github para versionamento de código. Desenvolvo protótipos de alta fidelidade a partir de Style Guide e implemento o consumo de API's.
-
-    
+    <br>  
 </div>
 <br/> <br/>
 
