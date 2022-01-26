@@ -10,7 +10,7 @@ Eu sou Desenvolvedor Front-End, apaixonado por tecnologia e pelas maravilhas que
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575991535261?text=Ol%C3%A1+Vagner%21+Tudo+bom%3F%3F)
 
 
-![Vagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerecomp&show_icons=true&theme=dracula)
+![Vagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnerecomp&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerecomp&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
