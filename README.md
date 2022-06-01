@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou o Vagner José 👋  
 
-Eu sou Desenvolvedor, apaixonado por tecnologia e pelas maravilhas que ela proporciona. Tenho experiência utilizando Javascript (ES6), HTML5, CSS3 e o ecossistema do framework Vue.js. Além disso, desenvolvi trabalhos acadêmicos nas linguagens C, Java, Python e Pascal. Tenho conhecimento em bancos de dados SQL, utilizo Git/Github para versionamento de código. Desenvolvo protótipos de alta fidelidade a partir de Style Guide e implemento o consumo de API's.
+Desenvolvedor, apaixonado por tecnologia e pelas maravilhas que ela proporciona. Tenho experiência utilizando o ecossistema do framework Vue.js, o Node.js com Express e o Laravel. Além disso, desenvolvi projetos nas linguagens C, Java, Javascript, CSS, HTML e PHP. Tenho conhecimento em bancos de dados MySQL e MongoDB. Utilizo ferramentas como Git/Github e Github actions para versionamento de código e automação de deploy. Implemento interfaces de alta fidelidade a partir de Style Guide, desenvolvo e consumo API's REST.
+
 ##
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](http://github.com/vagnerecomp)
