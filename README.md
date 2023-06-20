@@ -21,7 +21,7 @@ Desenvolvedor, apaixonado por tecnologia e pelas maravilhas que ela proporciona.
     <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
-    <img align="center" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat"/><br>
+    <img align="center" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/><br>
     <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <br>
     <img align="center" alt="Nuxt" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white"/><br>
     <img align="center" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF"/><br>
